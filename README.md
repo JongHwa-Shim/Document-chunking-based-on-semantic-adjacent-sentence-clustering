@@ -8,8 +8,8 @@
 - **Disadvantages:** The method is somewhat complicated, increases processing time, is not effective if uniformity of chunk size is important, if the composition of the text content is very complex (sentences, word fragments, format marks, etc. mixed together) sentence transformer Vectorization performance may decrease
 
 ## Data Pipeline
-./data/corpus.txt --> Text data that needs to be chunked. Please the file contents with whatever you want.   
-./data/chunked_corpus.txt --> Chunking result of "./data/corpus.txt".    
+- ./data/corpus.txt --> Text data that needs to be chunked. Please the file contents with whatever you want.   
+- ./data/chunked_corpus.txt --> Chunking result of "./data/corpus.txt".    
 
 ## Installation
 1. Python installation - Please install python version 3.10.   
